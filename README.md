@@ -38,6 +38,12 @@ short version:
 - **Gamified Habit-tracking mobile app**, live on the stores, around 100 users. React
   Native and Expo in a TypeScript monorepo, with Payload CMS 3, Next.js and
   SQLite on the back end.
+- **Turnkey websites with custom admin interfaces**, built as a freelancer for
+  real clients in different lines of business. Each one shipped end to end,
+  from scoping to launch, and each ships with a back office that lets the
+  client run their own content, events and publications without coming back to
+  me. One of them is a Next.js, Tailwind and shadcn/ui build whose owner
+  publishes her own articles and manages her workshops herself.
 - **Royal Canin global platform** at Ekino (Havas Group). Angular and
   TypeScript web components, configuration-driven forms, REST integrations,
   Core Web Vitals work, Jest on every component. 
